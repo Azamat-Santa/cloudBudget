@@ -494,6 +494,8 @@ footer h1 {
     font-size: 20px;
     font-weight: 600;
     text-decoration: none;
+    text-transform: uppercase;
+
 }
 
 .menu__item:hover {
